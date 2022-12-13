@@ -1,2 +1,6 @@
 # BicycleIndicators
-Traffic indicators for your bicily based on ESP8266
+Sexy verkeerslichten voor jouw fiets.
+
+
+werk-in-uitvoering!
+
