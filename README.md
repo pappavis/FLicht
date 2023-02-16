@@ -1,6 +1,6 @@
 # BicycleIndicators
-Sexy verkeerslichten voor jouw fiets.
-
+Sexy traffic indicator lights for urban cyclists.
+Verkeerslichten voor jouw fiets.
 
 werk-in-uitvoering!
 
