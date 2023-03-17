@@ -7,6 +7,7 @@ werk-in-uitvoering!
 
 ### Low power circuit
 <img src="https://github.com/pappavis/FLicht/blob/main/img/ESP32%20lowpower%20Neopixels%20circuit%2020230306%20falstad.com%20circuit.jpg?raw=true" width="60%" height="60%">
+Vorbeeld: openen met <a href="http://www.falstad.com/circuit/circuitjs.html">http://www.falstad.com/circuit/circuitjs.html</a>
 
 ### Hoe het zou moeten werken
 1x ESP32 aan je fiets onder de zadel, of rugtas met 2x 8 Neopixels
