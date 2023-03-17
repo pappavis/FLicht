@@ -1,1 +1,1 @@
-Printplaat hier.
+Printplaat hier met KiCAD.
