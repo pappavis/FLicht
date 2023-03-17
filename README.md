@@ -2,6 +2,10 @@
 Sexy verkeerslichten voor jouw stadsfiets.
 werk-in-uitvoering!
 
+Hieronder: voorbeeld!!
+
+<img src="https://github.com/pappavis/FLicht/blob/main/img/fietsKnipperlicht_voorbeeld.jpg?raw=true" width="10%" height="10%" alt="Voorbeeld FLicht">
+
 ## Techniek
 "FLicht"  Een knipperlicht voor de fiets, bestaande uit 2x losse ESP32s verbonden via Bluetooth - 1x ESP32 aan je stuur met knoppen voor richtingaanwijzer, aan/uit schakelaar. Programmeertaal is <a href="https://micropython.org" target="_blank">MicroPython</a>.
 
